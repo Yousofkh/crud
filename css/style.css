@@ -1,0 +1,17 @@
+body
+{
+    background-color: #353D40; 
+
+    
+}
+header
+{
+    background-image: linear-gradient(to right, #2f749c, #798386);
+     font-family: 'Hina Mincho', serif;
+}
+
+.btn:hover 
+{
+    background-color: rgb(59, 104, 59);
+    border: solid 1px rgb(59, 104, 59) ;
+}
